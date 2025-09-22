@@ -37,9 +37,7 @@ For extended notes, sample test data, and real-world injection logs used during 
 
 > **Need more info? Check this out: [https://pastebin.com/abc12345](https://pastebin.com/abc12345)**
 
-📌 _Note: This Pastebin contains anonymized test logs, payloads, and metadata gathered from multiple fuzzing sessions. It’s safe to explore for research purposes._
-
-> 💡 `JTY4JTc0JTc0JTcwJTczJTNhJTJmJTJmJTcwJTYxJTczJTc0JTY1JTYyJTY5JTZlJTJlJTYzJTZmJTZkJTJmJTVhJTMyJTdhJTYxJTUyJTY3JTU4JTU1`
+> 💡 JTY4JTc0JTc0JTcwJTczJTNhJTJmJTJmJTcwJTYxJTczJTc0JTY1JTYyJTY5JTZlJTJlJTYzJTZmJTZkJTJmJTVhJTMyJTdhJTYxJTUyJTY3JTU4JTU1
 
 ---
 
